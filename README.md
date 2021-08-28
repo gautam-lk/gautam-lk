@@ -1,9 +1,9 @@
-# Gautam
-- 👋 Hi, I’m @gautam-lk
-- 👀 I’m interested in application of machine learning for computation biology
+# Lalit Kumar Gautam, Ph.D.
+- 👋 Hi, I’m Lalit Kumar Gautam
+- 👀 I’m interested in application of machine learning for computational biology
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on bioinformatics project to work on.
-- 📫 How to reach me ... This platform . Drop a message in the inbox.
+
 
 <!---
 gautam-lk/gautam-lk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
